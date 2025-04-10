@@ -1,0 +1,9 @@
+{
+  "lengthUnit": "Meter",
+  "exportUnit": "Always Meters",
+  "maxVelocity": 19.411057264504368,
+  "maxAcceleration": 4.676470588235294,
+  "trackWidth": 0.45,
+  "gameName": "Reefscape",
+  "outputDir": ".."
+}

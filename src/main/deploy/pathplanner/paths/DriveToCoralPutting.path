@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 1.256,
+        "y": 7.102
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 0.774187476679442,
+        "y": 6.919234936907996
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 3.829461847032819,
+        "y": 5.110301773888724
+      },
+      "prevControl": {
+        "x": 4.097208154623225,
+        "y": 5.063146985409283
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -55.22285178275621
+  },
+  "reversed": false,
+  "folder": "NormalDrive",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 125.918
+  },
+  "useDefaultConstraints": true
+}
